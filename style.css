@@ -202,4 +202,49 @@ section{
         width: 100%;
         height: auto;
     }
+    section{
+        padding: 0 3%;
+    }
+    .hero-text h5{
+        color: white;
+        font-size: 12px;
+        font-weight: 400;
+        margin-bottom: 20px;
+    }
+    .hero-text h1{
+        font-family: 'Kaushan Script', cursive;
+        color: white;
+        font-size: 35px;
+        line-height: 1;
+        margin: 0 0 25px;
+    }
+    .hero-text h4{
+        color: white;
+        font-size: 16px;
+        font-weight: 600;
+        margin-bottom: 10px;
+    }
+    .hero-text p{
+        color: white;
+        font-size: 12px;
+        line-height: 1.9;
+        margin-bottom: 20px;
+    }
+    .hero-text a{
+        color: white;
+        display: inline-block;
+        background: transparent;
+        border: 1px solid white;
+        padding: 8px 20px;
+        font-size: 12px;
+        font-weight: 500;
+        border-radius: 30px;
+        line-height: 1.4;
+        text-transform: uppercase;
+        transition: all .55s ease;
+    }
+    .hero-text{
+        margin: 15% 0 0 0;
+        padding: 0;
+    }
 }
