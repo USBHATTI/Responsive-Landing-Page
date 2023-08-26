@@ -196,9 +196,9 @@ section{
     }
 
 }
-@media (max-width: 470px)
+@media (max-width: 680px)
 {
-    .hero-img{
+    .hero-img img{
         width: 100%;
         height: auto;
     }
